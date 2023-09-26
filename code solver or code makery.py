@@ -1,4 +1,4 @@
-st = input("Enter message")
+st = input("Enter Password")
 words = st.split(" ")
 coding = input("1 for Coding or 0 for Decoding")
 coding = True if (coding=="1") else False
